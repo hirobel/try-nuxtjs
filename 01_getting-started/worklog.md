@@ -24,8 +24,14 @@
 ? Choose development tools (Press <space> to select, <a> to toggle all, <i> to invert selection)
 ```
 
-## まとめ
+### 実行してみる
 
+```
+$ npm run dev
+```
+
+画面が正常に表示されました
+https://gyazo.com/556b4e9d1687bafe8debdec0243db8de
 
 ## 参考
 
